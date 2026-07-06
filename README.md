@@ -1,0 +1,1 @@
+ Developed a Spiking Neural Network (SNN) simulation utilizing the Brian2 simulator. Implemented a 10-neuron network governed by Leaky Integrate-and-Fire (LIF) differential equations, incorporating stochastic input currents. Configured state and spike monitors to track membrane potentials ($v$) and generated spike raster plots to analyze network firing behaviors.
